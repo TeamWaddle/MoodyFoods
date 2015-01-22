@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoodyFoods</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="profiles_meals">Meal Profiles</string>
+    <string name="action_settings">Settings</string>
+    <string name="section1_food">Foods</string>
+    <string name="section2_drinks">Drinks</string>
+    <string name="section3_snacks">Snacks</string>
+    <string name="sectiontitle_moody">MoodyFoods</string>
+    <string name= "about_moody">About</string>
+
+
+
+
+
+
+</resources>
